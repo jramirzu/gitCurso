@@ -13,6 +13,7 @@
 		6980D19E28761E5400B0BAFB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6980D19C28761E5400B0BAFB /* Main.storyboard */; };
 		6980D1A028761E5600B0BAFB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6980D19F28761E5600B0BAFB /* Assets.xcassets */; };
 		6980D1A328761E5600B0BAFB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6980D1A128761E5600B0BAFB /* LaunchScreen.storyboard */; };
+		6980D1AB28761ECB00B0BAFB /* registroViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6980D1AA28761ECB00B0BAFB /* registroViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6980D19F28761E5600B0BAFB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6980D1A228761E5600B0BAFB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6980D1A428761E5600B0BAFB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6980D1AA28761ECB00B0BAFB /* registroViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = registroViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				6980D19628761E5400B0BAFB /* AppDelegate.swift */,
 				6980D19828761E5400B0BAFB /* SceneDelegate.swift */,
+				6980D1AA28761ECB00B0BAFB /* registroViewController.swift */,
 				6980D19A28761E5400B0BAFB /* ViewController.swift */,
 				6980D19C28761E5400B0BAFB /* Main.storyboard */,
 				6980D19F28761E5600B0BAFB /* Assets.xcassets */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6980D19B28761E5400B0BAFB /* ViewController.swift in Sources */,
+				6980D1AB28761ECB00B0BAFB /* registroViewController.swift in Sources */,
 				6980D19728761E5400B0BAFB /* AppDelegate.swift in Sources */,
 				6980D19928761E5400B0BAFB /* SceneDelegate.swift in Sources */,
 			);
