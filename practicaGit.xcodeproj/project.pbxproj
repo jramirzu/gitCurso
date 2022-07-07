@@ -13,6 +13,7 @@
 		6980D24028768FFC00B0BAFB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6980D23E28768FFC00B0BAFB /* Main.storyboard */; };
 		6980D24228768FFE00B0BAFB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6980D24128768FFE00B0BAFB /* Assets.xcassets */; };
 		6980D24528768FFE00B0BAFB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6980D24328768FFE00B0BAFB /* LaunchScreen.storyboard */; };
+		6980D24D28769C7100B0BAFB /* RegistroViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6980D24C28769C7100B0BAFB /* RegistroViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6980D24128768FFE00B0BAFB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6980D24428768FFE00B0BAFB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6980D24628768FFE00B0BAFB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6980D24C28769C7100B0BAFB /* RegistroViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistroViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				6980D23828768FFC00B0BAFB /* AppDelegate.swift */,
 				6980D23A28768FFC00B0BAFB /* SceneDelegate.swift */,
 				6980D23C28768FFC00B0BAFB /* ViewController.swift */,
+				6980D24C28769C7100B0BAFB /* RegistroViewController.swift */,
 				6980D23E28768FFC00B0BAFB /* Main.storyboard */,
 				6980D24128768FFE00B0BAFB /* Assets.xcassets */,
 				6980D24328768FFE00B0BAFB /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6980D23D28768FFC00B0BAFB /* ViewController.swift in Sources */,
+				6980D24D28769C7100B0BAFB /* RegistroViewController.swift in Sources */,
 				6980D23928768FFC00B0BAFB /* AppDelegate.swift in Sources */,
 				6980D23B28768FFC00B0BAFB /* SceneDelegate.swift in Sources */,
 			);
